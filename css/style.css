@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700;800;900&family=Open+Sans:wght@300;400;600;700;800&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Red Rose', sans-serif;
+}
+.navbar{
+    display: flex;
+}
+.list{
+    margin-top: 60px;
+    display: flex;
+    list-style: none;
+    margin-left: 180px;
+    color: #758283;
+}
+.list-item{
+    margin: 0 30px;
+    font-size: 20px;
+}
+.list-item:first-child{
+    color: #ffffff;
+}
+.container{
+    background-color: #2B2922;
+}
+.button-small{
+    padding: 15px 30px;
+    margin-left: 30px;
+    margin-top: 45px;
+    font-size: 20px;
+    border-radius: 13px;
+    border: 1px solid #A08F36;
+    color: #A08F36;
+    background-color: #2B2922;
+}
+nav img{
+    height: 45px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.justice{
+    width: 100vh;
+}
+
+.hero{
+    display: flex;
+    font-family: 'Montserrat',sans-serif;
+    text-transform: capitalize;
+
+}
+
+.hero-heading{
+    color: #ffffff;
+    font-size: 60px;
+    width: 130%;
+    margin:80px 0px 80px 100px;  
+    line-height: 100px;
+}
+
+.para{
+    font-size: 20px;
+    color: #ffffffc5;
+    margin: 90px 60px 80px 10px;
+    padding:10px 80px 50px 40px;
+    line-height: 35px;
+    text-transform:initial ;
+}
+
+
+.justice-img img{
+   height: 100%;
+   width: 100%;
+}
