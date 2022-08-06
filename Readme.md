@@ -1,5 +1,7 @@
 # Law Home Page
 
+![Screenshot](./image/3.png)
+
 Built With
 - Html
 - Css
